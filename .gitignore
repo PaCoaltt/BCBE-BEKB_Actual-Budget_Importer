@@ -1,0 +1,8 @@
+node_modules/
+.env
+cache/
+*.xml
+camt/*
+!camt/.gitkeep
+npm-debug.log*
+.DS_Store
